@@ -7,7 +7,7 @@
 - QQ：3315510010
     
 ## 技能清单
-(以下均熟练使用)
+(以下均熟练使用且有实际项目经验)
 - Web开发：PHP/前端
 - Web框架：Laravel/ThinkPHP
 - 前端框架：Vue/React/Bootstrap/ Semantic
