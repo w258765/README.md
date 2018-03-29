@@ -13,6 +13,7 @@
 - 前端框架：Vue/React/Bootstrap/ Semantic
 - 数据库相关：MySQL/MongoDB
 - 版本管理、文档和自动化部署工具：Svn/Git/Composer/npm/jspm
+- 开发工具：vagrant/homestead/phpstorm
 
 ## 工作经历 
 
